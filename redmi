@@ -1,0 +1,6 @@
+express: 
+sequelize: ORM(object relation mapping) retrive data from to database inform of class.
+bcrypt: used to encrypt password,
+body-parser:
+multer: for file upload, it uses disk storage and memory storage.
+morgan: console log
